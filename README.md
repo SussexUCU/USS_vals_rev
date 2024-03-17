@@ -8,7 +8,7 @@
 
 I plan to reframe the conclusions further. 
 All feedback welcome.
-All data in Excel sheets in `data` folder
+All data in Excel sheets in `data_analysis` folder
 
 Jackie Grant j.j.grant@sussex.ac.uk
 
